@@ -1,3 +1,15 @@
+# Include folders (data & models)
+!data/
+!models/
+
+# Ignore all contents inside them
+data/*
+models/*
+
+# (Optional) Keep placeholder file
+!data/.gitkeep
+!models/.gitkeep
+
 # Data
 *.csv
 *.tsv
