@@ -1,6 +1,4 @@
-
 # Data
-data/
 *.csv
 *.tsv
 *.xlsx
@@ -8,7 +6,6 @@ data/
 # Model artifacts
 *.pkl
 *.joblib
-models/
 
 # Python bytecode
 __pycache__/
