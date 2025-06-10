@@ -1,0 +1,36 @@
+
+# Data
+data/
+*.csv
+*.tsv
+*.xlsx
+
+# Model artifacts
+*.pkl
+*.joblib
+models/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environment
+env/
+.venv/
+ENV/
+
+# VSCode settings
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Secrets
+*.env
